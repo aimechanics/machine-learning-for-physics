@@ -1,12 +1,8 @@
 # Hands-on sessions
 
-Create one directory per practical session, for example:
-
 ```text
 hands-on/
-├── 01_pytorch/
-├── 02_autodiff/
-├── 03_physics_informed_learning/
+├── 02_pytorch_and_autodiff/
 └── ...
 ```
 
