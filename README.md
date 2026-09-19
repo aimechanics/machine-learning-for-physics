@@ -1,9 +1,18 @@
 ## Machine Learning for Physics
 
+```text
+ __  __      _        _  _      ____  
+|  \/  |    | |      | || |    |  _ \ 
+| |\/| |    | |      | || |_   | |_) |
+| |  | |    | |___   |__   _|  |  __/ 
+|_|  |_|    |_____|     |_|    |_|    
+
+ Machine    Learning     for    Physics
+```
+
 **M2 MSIAM — Université Grenoble Alpes**
 **Academic year 2026/2027**
 
-Course material for *Machine Learning for Physics*.
 
 ### Teaching team
 
