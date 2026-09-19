@@ -7,7 +7,6 @@
 
 - Vincent Acary, Michael Arbel, Filippo Masi, Henri Leroy
 - Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, Institute of Engineering, LJK, 38000 Grenoble, France.
-- MIAI Cluster AI
 
 #### Course format
 
