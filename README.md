@@ -3,13 +3,11 @@
 **M2 MSIAM — Université Grenoble Alpes**
 **Academic year 2026/2027**
 
-
 #### Teaching team
 
-- Vincent Acary
-- Michael Arbel
-- Filippo Masi
-- Henri Leroy
+- Vincent Acary, Michael Arbel, Filippo Masi, Henri Leroy
+- Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, Institute of Engineering, LJK, 38000 Grenoble, France.
+- MIAI Cluster AI
 
 #### Course format
 
@@ -20,25 +18,22 @@
 
 The course focuses on:
 
-- physics-informed learning;
-- operator learning;
-- structured models and differentiable solvers;
+- physics-informed learning,
+- operator learning,
+- structured models and differentiable solvers,
 - comparison with classical numerical methods.
 
 #### Prerequisites
 
 Required background:
 
-- probability and statistics at Master 1 level.
-
-Useful background:
-
-- linear algebra and multivariable calculus;
-- numerical methods and optimization;
-- ordinary and partial differential equations;
+- probability and statistics.
+- linear algebra and multivariable calculus,
+- numerical methods and optimization,
+- ordinary and partial differential equations,
 - Python programming and basic machine learning.
 
-#### Repository structure
+#### Structure
 
 ```text
 machine-learning-for-physics/
@@ -54,15 +49,6 @@ machine-learning-for-physics/
 - `project/`: project statements.
 - `requirements.txt`: common Python dependencies used in the hands-on sessions.
 
-#### Slides
-
-| # | Topic | Material |
-|---:|---|---|
-| 01 | Introduction | [PDF](slides/01_Introduction.pdf) |
-| 02 | Neural networks, optimization, and automatic differentiation | [PDF](slides/02_Neural-networks_optim_autodiff.pdf) |
-
-#### Python environment
-
 A minimal environment can be created with
 
 ```bash
@@ -70,3 +56,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+#### Acknowledgements
+This work is supported by the Multidisciplinary Institute in Artificial Intelligence (MIAI) Cluster and the Agence Nationale de la Recherche through the France 2030 program (Grant agreement ANR-23-IACL-0006) within the chair AIM: Artificial Intelligence and Mechanics for scale bridging in complex materials.
