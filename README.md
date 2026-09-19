@@ -61,8 +61,8 @@ machine-learning-for-physics/
 
 | # | Topic | Material |
 |---:|---|---|
-| 1 | Introduction and motivation | [PDF](slides/01_introduction_and_motivation.pdf) |
-| 2 | Neural networks, optimization, and automatic differentiation | [PDF](slides/2_Neural-networks_optim_autodiff.pdf) |
+| 01 | Introduction | [PDF](slides/01_Introduction.pdf) |
+| 02 | Neural networks, optimization, and automatic differentiation | [PDF](slides/02_Neural-networks_optim_autodiff.pdf) |
 
 Additional lecture material will be added during the course.
 
