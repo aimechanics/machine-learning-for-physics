@@ -1,23 +1,23 @@
-# Machine Learning for Physics
+## Machine Learning for Physics
 
 **M2 MSIAM — Université Grenoble Alpes**
 **Academic year 2026/2027**
 
 Course material for *Machine Learning for Physics*.
 
-## Teaching team
+### Teaching team
 
 - Vincent Acary
 - Michael Arbel
 - Filippo Masi
 - Henri Leroy
 
-## Course format
+### Course format
 
 - 3 ECTS, 18 hours
 - Lectures and hands-on sessions
 
-## Scope
+### Scope
 
 The course focuses on:
 
@@ -28,7 +28,7 @@ The course focuses on:
 
 A recurring question throughout the course is how machine learning can complement numerical methods for modelling and solving physical problems.
 
-## Prerequisites
+### Prerequisites
 
 Required background:
 
@@ -41,7 +41,7 @@ Useful background:
 - ordinary and partial differential equations;
 - Python programming and basic machine learning.
 
-## Repository structure
+### Repository structure
 
 ```text
 machine-learning-for-physics/
@@ -57,16 +57,14 @@ machine-learning-for-physics/
 - `project/`: project statements.
 - `requirements.txt`: common Python dependencies used in the hands-on sessions.
 
-## Slides
+### Slides
 
 | # | Topic | Material |
 |---:|---|---|
 | 01 | Introduction | [PDF](slides/01_Introduction.pdf) |
 | 02 | Neural networks, optimization, and automatic differentiation | [PDF](slides/02_Neural-networks_optim_autodiff.pdf) |
 
-Additional lecture material will be added during the course.
-
-## Python environment
+### Python environment
 
 A minimal environment can be created with
 
