@@ -8,6 +8,23 @@
 - Vincent Acary, Michael Arbel, Filippo Masi, Henri Leroy
 - Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, Institute of Engineering, LJK, 38000 Grenoble, France.
 
+#### Timetable
+
+| Date | Time | Classroom |
+|---|---|---|---|
+| 22 Sep 2026 | 08:15–09:45 | **E103-info** |
+| 06 Oct 2026 | 08:15–09:45 | **E103-info** |
+| 13 Oct 2026 | 08:15–09:45 | **E103-info** |
+| 20 Oct 2026 | 08:15–09:45 | **E102-info** |
+| 03 Nov 2026 | 08:15–09:45 | **E200-info** |
+| 10 Nov 2026 | 08:15–09:45 | **E103-info** |
+| 17 Nov 2026 | 08:15–09:45 | **E103-info** |
+| 24 Nov 2026 | 08:15–09:45 | **E103-info** |
+| 01 Dec 2026 | 08:15–09:45 | **E103-info** |
+| 08 Dec 2026 | 08:15–09:45 | **E102-info** |
+| 15 Dec 2026 | 08:15–09:45 | **E103-info** |
+| 05 Jan 2027 | 08:15–09:45 | **E102-info** |
+
 #### Course format
 
 - 3 ECTS, 18 hours
