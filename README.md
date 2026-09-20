@@ -58,3 +58,10 @@ pip install -r requirements.txt
 
 #### Acknowledgements
 This work is supported by the Multidisciplinary Institute in Artificial Intelligence (MIAI) Cluster and the Agence Nationale de la Recherche through the France 2030 program (Grant agreement ANR-23-IACL-0006) within the chair AIM: Artificial Intelligence and Mechanics for scale bridging in complex materials.
+
+#### License
+Course materials are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Source code is licensed under the
+[MIT License](LICENSE-CODE).
+Third-party material remains subject to its original copyright and license.
