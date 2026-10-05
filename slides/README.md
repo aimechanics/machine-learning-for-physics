@@ -3,8 +3,9 @@
 Part I: Physics-informed learning
 
 ```text
-01_Introduction.pdf
-02_Neural-networks_optim_autodiff.pdf
+01_introduction.pdf
+02_neural-networks_optim_autodiff.pdf
+03_physics-informed_neural-networks.pdf
 ```
 
 Part II: Operator learning
