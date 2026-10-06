@@ -13,7 +13,7 @@
 | Date | Time | Classroom |
 |---|---|---|
 | 22 Sep 2026 | 08:15–09:45 | E103-info |
-| <del>06 Oct 2026 | 08:15–09:45 | E103-info </del>|
+| <del>06 Oct 2026</del> | <del>08:15–09:45</del> | <del> E103-info </del>|
 | 13 Oct 2026 | 08:15–09:45 | E103-info |
 | 20 Oct 2026 | 08:15–09:45 | E102-info |
 | 03 Nov 2026 | 08:15–09:45 | E200-info |
