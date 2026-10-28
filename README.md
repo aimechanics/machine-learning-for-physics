@@ -26,6 +26,12 @@
 | 15 Dec 2026 | 08:15–09:45 | E103-info |
 | 05 Jan 2027 | 08:15–09:45 | E102-info |
 
+### Exam-project
+- *Project section*: send by email (`filippo.masi@inria.fr`) -- **deadline: 13 November 2026** 
+- *Project submission*: send by email (`filippo.masi@inria.fr`) -- **deadline: 16 January 2027**
+- *Oral exam*: 18--22 January 2027.
+
+ 
 #### Course format
 
 - 3 ECTS, 18 hours
@@ -74,10 +80,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Project
-- *Project section*: send by email (`filippo.masi@inria.fr`) -- **deadline: 13 November 2026** 
-- *Project submission*: send by email (`filippo.masi@inria.fr`) -- **deadline: 16 January 2027**
-- *Oral exam*: 18--22 January 2027.
 
 #### Acknowledgements
 This work is supported by the Multidisciplinary Institute in Artificial Intelligence (MIAI) Cluster and the Agence Nationale de la Recherche through the France 2030 program (Grant agreement ANR-23-IACL-0006) within the chair AIM: Artificial Intelligence and Mechanics for scale bridging in complex materials.
