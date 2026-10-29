@@ -9,6 +9,9 @@ Part I: Physics-informed learning
 ```
 
 Part II: Operator learning
+```text
+04_operator_learning.pdf
+```
 
 
 Part III: Differentiable solvers
